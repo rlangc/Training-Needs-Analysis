@@ -42,7 +42,7 @@ This sample serves as a guide for HR professionals, learning & development speci
     - Identify environmental barriers affecting performance
     - Propose solution(s)
     - Identify specific outcomes for the solution
-    - performance-based outcomes
+    - Performance-based outcomes
     - Identify needs
     - Identify best practices/benchmark other DHS components if/as appropriate
     - Identify resources
