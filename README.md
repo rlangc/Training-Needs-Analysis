@@ -44,7 +44,7 @@ This sample serves as a guide for HR professionals, learning & development speci
     - Identify specific outcomes for the solution
     - Performance-based outcomes
     - Identify needs
-    - Identify best practices/benchmark other DHS components if/as appropriate
+    - Identify best practices/benchmark other organizations/sections if/as appropriate
     - Identify resources
     - Identify risks
     - Identify costs
