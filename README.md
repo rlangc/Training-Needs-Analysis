@@ -14,47 +14,54 @@ This sample serves as a guide for HR professionals, learning & development speci
 
 <h2>Sample Document with Questions</h2>
 
-1. Analyze Request (To be completed during 'Needs Analysis Meeting')
-    - Why request is being made?
-    - What are the performance issues?
-    - What's the urgency of the request?
-    - What information needs to be collected & analyzed?
-    - What are expected outcomes?
-    - What's the impact of the request on human resources? (if applicable)
-      - Are there resources, time, and/or budget constraints?
-    - Is there existing or associated training?
-    - Frequency?
-      - Anually, Bi-Anuallly, 2 Years, etc.
-    - Who is the sponsor?
-    - Who are key stakeholders?
-      - Who will be assigned as SMEs?
-    - Who is the targeted training audience(s)
-      - Are there any differences in what they need to know/do?
-    - Are there any physical and/or technology systems involved that would need to be trained?
-    - What are the project risks (known & identified)?
-    - Is there any data analysis to be done?
-    - Are there existing and/or new process or procedures to be developed as a result of this request?
-    - What are the associated polcy, statues, regulations, mandates, etc.? (if applicable)
-2. Desired Results andor Deliverables (To be completed after 'Needs Analysis Meeting')
-    - Deliverables: recommendation(s); milestones; resource identification; budget; risks; and schedule:
-    - Current State of Training vs. Future State of Training
-    - Identify causes of performance gaps/problems
-    - Identify environmental barriers affecting performance
-    - Propose solution(s)
-    - Identify specific outcomes for the solution
-    - Performance-based outcomes
-    - Identify needs
-    - Identify best practices/benchmark other organizations/sections if/as appropriate
-    - Identify resources
-    - Identify risks
-    - Identify costs
-    - Initiate development of the solution
-    - Course and/or curriculum
-    - Blended learning approach (modular)
-    - Learner-centric materials
-    - Online training
-    - Job aids:
-    - Document of scenarios for roleplay:
+<h3>1. Analyze Request</h3>
+
+This section is to be completed during 'Needs Analysis Meeting.'
+
+- Why request is being made?
+- What are the performance issues?
+- What's the urgency of the request?
+- What information needs to be collected & analyzed?
+- What are expected outcomes?
+- What's the impact of the request on human resources? (if applicable)
+- Are there resources, time, and/or budget constraints?
+- Is there existing or associated training?
+- Frequency?
+  - Anually, Bi-Anuallly, 2 Years, etc.
+- Who is the sponsor?
+- Who are key stakeholders?
+  - Who will be assigned as SMEs?
+- Who is the targeted training audience(s)
+  - Are there any differences in what they need to know/do?
+- Are there any physical and/or technology systems involved that would need to be trained?
+- What are the project risks (known & identified)?
+- Is there any data analysis to be done?
+- Are there existing and/or new process or procedures to be developed as a result of this request?
+- What are the associated polcy, statues, regulations, mandates, etc.? (if applicable)
+
+<h3>2. Desired Results andor Deliverables</h3>
+
+This section is to be completed after 'Needs Analysis Meeting'
+
+- Deliverables: recommendation(s); milestones; resource identification; budget; risks; and schedule
+- Current State of Training vs. Future State of Training
+- Identify causes of performance gaps/problems
+- Identify environmental barriers affecting performance
+- Propose solution(s)
+- Identify specific outcomes for the solution
+- Performance-based outcomes
+- Identify needs
+- Identify best practices/benchmark other organizations/sections if/as appropriate
+- Identify resources
+- Identify risks
+- Identify costs
+- Initiate development of the solution
+- Course and/or curriculum
+- Blended learning approach (modular)
+- Learner-centric materials
+- Online training
+- Job aids
+- Document of scenarios for roleplay
   
      <h2></h2>
 <p align="center">
