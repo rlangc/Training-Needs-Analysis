@@ -62,7 +62,7 @@ This section is to be completed after 'Needs Analysis Meeting'
 - Online training
 - Job aids
 - Document of scenarios for roleplay
-  
-     <h2></h2>
+
+<h2></h2>
 <p align="center">
-  <a href="https://github.com/rlangc/Test_RCL.git"><b>Return to Home</b></a>
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
