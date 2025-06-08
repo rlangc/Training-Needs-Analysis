@@ -1,0 +1,1 @@
+This section includes downloadable and editable resources used to conduct Training Needs Analyses. Tools are designed to be adapted to various industries and organizational settings, with support for both qualitative and quantitative data collection.
