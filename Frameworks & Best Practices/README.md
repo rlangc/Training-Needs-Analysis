@@ -1,0 +1,1 @@
+This section provides foundational frameworks, industry-aligned models, and best practices to guide effective Training Needs Analysis. It helps learners and practitioners understand how to structure their analysis using established instructional design methodologies.
