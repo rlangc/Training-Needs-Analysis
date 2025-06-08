@@ -1,4 +1,4 @@
-Developing a Training Needs Analysis eLearning (Coming Soon)
+## Developing a Training Needs Analysis eLearning (Coming Soon)
 
 This interactive e-learning course walks learners through the step-by-step process of conducting a comprehensive Training Needs Analysis (TNA). Participants will build the skills and confidence needed to identify organizational performance gaps and design targeted training solutions that drive measurable results. Delivered through a Learning Management System (LMS), the course is fully self-paced and combines engaging content with practical tools, exercises, and case-based scenarios.
 
