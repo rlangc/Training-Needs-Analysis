@@ -1,0 +1,1 @@
+Explore selected academic work that demonstrates foundational knowledge and applied understanding of Training Needs Analysis. These artifacts show how theory connects to practice and provide insight into the development of professional skills in instructional design and workforce analysis.
