@@ -1,0 +1,1 @@
+Review sample projects that showcase how TNA outputs translate into actionable training strategies. These examples highlight end-to-end work—from request analysis through solution recommendation and planning. Where possible, documentation includes context, process steps, and final deliverables.
