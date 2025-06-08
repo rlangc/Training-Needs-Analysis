@@ -1,0 +1,7 @@
+Developing a Training Needs Analysis eLearning (Coming Soon)
+
+This interactive e-learning course guides learners through the step-by-step process of conducting an effective Training Needs Analysis (TNA). Students will gain the knowledge and tools needed to identify organizational skill gaps and recommend impactful training solutions. Delivered through a Learning Management System (LMS), the course is self-paced and offers engaging content, practical exercises, and real-world case studies to support hands-on learning.
+
+Throughout the course, learners will explore the fundamentals of Training Needs Analysis and understand its role in driving organizational success. They will learn proven methods for gathering and analyzing data, including techniques such as SWOT Analysis, Gap Analysis, and Root Cause Analysis. The course also covers how to align training initiatives with business goals, develop actionable TNA reports, and evaluate the effectiveness of training interventions after implementation.
+
+The course features self-paced modules that can be accessed anytime, interactive content such as quizzes and scenario-based exercises, and downloadable templates to support real-world application. Learners will apply what they’ve learned through case studies and real-world examples. Knowledge checks are built into each module to track progress, and students who successfully complete the course will receive a certificate of completion.
